@@ -1,10 +1,6 @@
 Westwing
 ========
-ReadMe
-
-I implemented a simple app according to the required specification
-
-Simply open the project in Xcode to run! 
+Simple Open and run!
 
 3rd party Libraries used
 
